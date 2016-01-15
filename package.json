@@ -1,0 +1,12 @@
+{
+  "name": "kue-demo",
+  "description": "kue demo, including kue-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "express": "^4.13.3",
+    "kue": "^0.10.5",
+    "kue-ui": "^0.1.0"
+  }
+}
